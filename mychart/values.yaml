@@ -1,0 +1,6 @@
+port: 89
+targetPort: 89
+nodePort: 30081
+favorite:
+    drink: coffee
+    food: pizza
